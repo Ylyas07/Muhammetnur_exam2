@@ -1,0 +1,67 @@
+.bg-image-1 {
+    background-image: url('../img/video-bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.bg-image-2 {
+    background-image: url('../img/courses-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bg-image-3 {
+    background-image: url('../img/coming-soon-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-4 {
+    background-image: url('../img/gfgfggfggg-min.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg-shadow {
+    background-color: rgba(87, 95, 102, 0.356);
+}
+
+.bg-warning-1 {
+    background-color: #faa628;
+}
+
+p i {
+    color: #A5966F;
+    font-size: 20px;
+}
+
+.bg-lm {
+    background-color: rgb(4, 11, 34);
+}
+
+.s {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-rm {
+    background-color: rgb(11, 30, 82);
+}
+
+.bg-ss {
+    background-color: rgba(6, 19, 43, 0.219);
+}
+
+.bg-shadow-1 {
+    background-color: rgba(103, 114, 119, 0.116);
+}
+
+.bg-shadow-2 {
+    background-color: rgba(113, 115, 145, 0.445);
+}
